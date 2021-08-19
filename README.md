@@ -1,4 +1,4 @@
-# webflix
+# Webflix - Xctuality FE Code Test
 
 ## Project setup
 ```
